@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = 'AlhajeCashier'
+rootProject.name = "alhaje-ss"
 include ':app'
